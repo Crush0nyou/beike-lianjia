@@ -1,0 +1,12 @@
+threadpool
+bs4
+pymysql
+requests
+lxml
+records
+pymongo
+xlsxwriter
+numpy
+pandas
+pyecharts
+pyecharts-snapshot
